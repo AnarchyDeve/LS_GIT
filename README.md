@@ -1,1 +1,3 @@
 # LS_GIT
+
+KimMinji
