@@ -1,1 +1,2 @@
 # LS_GIT
+SUNJUN KIM
