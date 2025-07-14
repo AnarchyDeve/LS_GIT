@@ -1,10 +1,13 @@
 # LS_GIT
 
+
+kimminji
 Parksoyeong
 ParkSeongJun
 SUNJUN KIM
-# 강희준
+강희준
 Parksoyeong
-# 도호현
+도호현
+
 
 
